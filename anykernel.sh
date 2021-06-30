@@ -3,8 +3,10 @@
 
 ## AnyKernel setup
 # begin properties
+
+
 properties() { '
-kernel.string=GatotKaca Kernel by ZHANtech™
+kernel.string=__Kernel_by__mARk__2021__
 do.devicecheck=1
 do.modules=1
 do.systemless=0

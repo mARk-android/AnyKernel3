@@ -2,12 +2,12 @@ BRANCH := $(shell git -C .. rev-parse --abbrev-ref HEAD)
 
 ifeq ($(findstring Q,$(BRANCH)),Q)
 ifeq ($(findstring Q,$(BRANCH)),Q)
-    NAME := GatotKaca•Kernel•Q•Ginkgo•Willow
+    NAME := mARk•Kernel•Q•Ginkgo•Willow
 else
-    NAME := GatotKaca•Kernel•Q•Ginkgo•Willow
+    NAME := mARk•Kernel•Q•Ginkgo•Willow
 endif
 else
-    NAME := GatotKaca•Kernel•Q•Ginkgo•Willow
+    NAME := mARk•Kernel•Q•Ginkgo•Willow
 endif
 
 DATE := $(shell date "+%Y%m%d")
